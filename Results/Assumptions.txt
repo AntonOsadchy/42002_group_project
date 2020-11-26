@@ -1,0 +1,7 @@
+Energy system designed from scratch without taking into consideration currently installed capacity
+Biomass is not considered as a renewable untill limitations of energy generation from Biomass are known
+Onshore wind generation is limited by current number of onshore turbines
+Price doesn't account for taxes, returns on investmenrts and profit margins of energy generation companies
+Energy curtailment is allowed
+No energy trading with neighboring countries allowed
+
