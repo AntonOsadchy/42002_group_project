@@ -1,0 +1,28 @@
+Stefanie's room
+
+1) Initial data analysis. Plot with shares, CP, etc.
+2) Include different fules for the biomass
+3) P2X for export hmmmm....
+4) Some ideas for sensitivity 
+
+
+What is the binding constraint?
+
+
+Sensitivity analysis
+For the report do proper input data explanation and analytics
+Include investment annualization
+
+Time agreagation
+
+Do comapriosn with existing capacity installed
+
+
+We missed limitations of units form model description
+Not only wind cp but also solar
+
+Dividing by demand how would it change the 
+
+Biomas considered as dispatchable
+Danish projection of capacity of biofules
+Technology data cotologs
