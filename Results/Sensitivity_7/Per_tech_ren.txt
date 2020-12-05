@@ -1,0 +1,36 @@
+32×7 DataFrame
+ Row │ Technology     Capacity_GW   Utilization    CAPEX_bilEUR   OM_bilEUR      Share_ren  Extension
+     │ String         Float64       Float64        Float64        Float64        String     Int64
+─────┼────────────────────────────────────────────────────────────────────────────────────────────────
+   1 │ Solar PV        0.0           NaN             0.0            0.0          0.0                0
+   2 │ Wind Onshore    8.49176e-15     0.288873      1.48606e-14    6.85599e-15  0.0                0
+   3 │ Wind Offshore   0.0           NaN             0.0            0.0          0.0                0
+   4 │ Biogas          0.0           NaN             0.0            0.0          0.0                0
+   5 │ Brown coal      0.0           NaN             0.0            0.0          0.0                0
+   6 │ Hard coal       0.0           NaN             0.0            0.0          0.0                0
+   7 │ CCGT            0.0           NaN             0.0            0.0          0.0                0
+   8 │ GT              5.049           0.696741      2.5245         2.29883      0.0                0
+   9 │ Solar PV        0.0           NaN             0.0            0.0          0.6                0
+  10 │ Wind Onshore    9.97107         0.288938     17.4494         8.05035      0.6                0
+  11 │ Wind Offshore   0.0           NaN             0.0            0.0          0.6                0
+  12 │ Biogas          0.0           NaN             0.0            0.0          0.6                0
+  13 │ Brown coal      0.0           NaN             0.0            0.0          0.6                0
+  14 │ Hard coal       0.0           NaN             0.0            0.0          0.6                0
+  15 │ CCGT            0.0           NaN             0.0            0.0          0.6                0
+  16 │ GT              4.39497         0.32017       2.19748        1.9837       0.6                0
+  17 │ Solar PV        0.0           NaN             0.0            0.0          0.8                0
+  18 │ Wind Onshore   23.6619          0.288938     41.4084        19.104        0.8                0
+  19 │ Wind Offshore   0.0           NaN             0.0            0.0          0.8                0
+  20 │ Biogas          0.0           NaN             0.0            0.0          0.8                0
+  21 │ Brown coal      0.0           NaN             0.0            0.0          0.8                0
+  22 │ Hard coal       0.0           NaN             0.0            0.0          0.8                0
+  23 │ CCGT            0.0           NaN             0.0            0.0          0.8                0
+  24 │ GT              3.92761         0.179134      1.96381        1.76695      0.8                0
+  25 │ Solar PV       24.5101          0.00414981   17.157         11.5295       0.95               0
+  26 │ Wind Onshore   28.5             0.288938     49.875         23.0101       0.95               0
+  27 │ Wind Offshore  46.2452          0.288938    180.356        124.352        0.95               0
+  28 │ Biogas          0.0          -Inf             0.0           -1.07475e-19  0.95               0
+  29 │ Brown coal      2.27374e-16     0.105097      4.3201e-16     1.37609e-16  0.95               0
+  30 │ Hard coal       0.0           NaN             0.0            0.0          0.95               0
+  31 │ CCGT            0.0           NaN             0.0            0.0          0.95               0
+  32 │ GT              3.63681         0.0483645     1.8184         1.63113      0.95               0
